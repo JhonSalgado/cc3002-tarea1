@@ -10,5 +10,8 @@ public class Main {
         Entidad ft=new FruitTree();
         System.out.println("puntos de vida del goblin: ");
         System.out.println(goblin.hpActual);
+        ((Knight) knight).Attack(goblin);
+        System.out.println("puntos de vida del goblin: ");
+        System.out.println(goblin.hpActual);
     }
 }
