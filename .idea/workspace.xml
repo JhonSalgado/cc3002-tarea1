@@ -1,53 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeee1ef8-1902-4890-b66f-933a337ce620" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/clases/AbstractHuman.java" afterDir="false" />
+    <list default="true" id="e4eefecc-da78-4449-81c5-26b85961a33f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinball.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logic/gameelements/Hittable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logic/gameelements/bumper/AbstractBumper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logic/gameelements/bumper/Bumper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logic/gameelements/bumper/KickerBumper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logic/gameelements/bumper/PopBumper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logic/gameelements/target/AbstractTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logic/gameelements/target/DropTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logic/gameelements/target/SpotTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logic/gameelements/target/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/KickerBumperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PopBumperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Metodologia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Metodologia.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/Attacker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/Entidad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/FireMage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/FruitTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/Goblin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/IceGolem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/Knight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/Priest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/Rock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/Undead.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Attacker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entidad.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FireMage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FruitTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Goblin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IceGolem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Knight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Priest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Undead.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/Attackable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Attackable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/Attacker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Attacker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/FireMage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/FireMage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/FruitTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/FruitTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/Goblin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Goblin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/IceGolem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/IceGolem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Knight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/Priest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Priest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/Rock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Rock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clases/Undead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clases/Undead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/FireMageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/FireMageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/GoblinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/GoblinTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/IceGolemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/IceGolemTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/KnightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/KnightTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/PriestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/PriestTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/UndeadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/UndeadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Metodologia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/clases/Attackable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/clases/Attacker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/clases/FireMage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/clases/FruitTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/clases/Goblin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/clases/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/clases/IceGolem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/clases/Knight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/clases/Priest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/clases/Rock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/clases/Undead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/test/FireMageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/test/GoblinTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/test/IceGolemTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/test/KnightTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/test/PriestTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Metodologia/test/UndeadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/AbstractHuman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/Attackable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/Attacker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/FireMage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/FruitTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/Goblin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/IceGolem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/Knight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/Priest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/Rock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clases/Undead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/FireMageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/GoblinTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/IceGolemTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/KnightTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/PriestTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/UndeadTest.java" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,160 +69,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Tarea1$UndeadTest.ic" NAME="UndeadTest Coverage Results" MODIFIED="1523736075024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Tarea1$KnightTest.ic" NAME="KnightTest Coverage Results" MODIFIED="1523736118846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Tarea1$PriestTest.ic" NAME="PriestTest Coverage Results" MODIFIED="1523736149796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Tarea1$IceGolemTest.ic" NAME="IceGolemTest Coverage Results" MODIFIED="1523736193665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Tarea1$GoblinTest.ic" NAME="GoblinTest Coverage Results" MODIFIED="1523736169605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Tarea1$FireMageTest.ic" NAME="FireMageTest Coverage Results" MODIFIED="1523736206713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.*</FILTER>
-    </SUITE>
+    <SUITE FILE_PATH="coverage/Metodologia_t2$PopBumperTest.ic" NAME="PopBumperTest Coverage Results" MODIFIED="1528938271765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Metodologia_t2$KickerBumperTest.ic" NAME="KickerBumperTest Coverage Results" MODIFIED="1528938256119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FruitTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/clases/FruitTree.java">
+    <leaf>
+      <file leaf-file-name="Table.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/logic/table/Table.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="547">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JAVA/clases" pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/clases">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>clases</OriginalElement>
-              <nodes>
-                <node x="10.500000000000114" y="432.0">clases.IceGolem</node>
-                <node x="39.5085034013606" y="687.0">clases.Knight</node>
-                <node x="624.5000000000001" y="432.0">clases.Undead</node>
-                <node x="443.0000000000001" y="255.0">clases.Attacker</node>
-                <node x="809.0085034013606" y="687.0">clases.FireMage</node>
-                <node x="654.0" y="0.0">clases.Attackable</node>
-                <node x="241.5000000000001" y="432.0">clases.Goblin</node>
-                <node x="578.0085034013606" y="687.0">clases.Priest</node>
-                <node x="472.5000000000001" y="520.0">clases.AbstractHuman</node>
-                <node x="885.0000000000001" y="211.0">clases.Rock</node>
-                <node x="654.0000000000001" y="211.0">clases.FruitTree</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="clases.Rock" target="clases.Attackable">
-                  <point x="0.0" y="-80.5" />
-                  <point x="990.5000000000001" y="186.0" />
-                  <point x="829.8333333333333" y="186.0" />
-                  <point x="70.33333333333326" y="80.5" />
-                </edge>
-                <edge source="clases.Attacker" target="clases.Attackable">
-                  <point x="0.0" y="-36.5" />
-                  <point x="538.5000000000001" y="186.0" />
-                  <point x="689.1666666666666" y="186.0" />
-                  <point x="-70.33333333333337" y="80.5" />
-                </edge>
-                <edge source="clases.Goblin" target="clases.Attacker">
-                  <point x="0.0" y="-102.5" />
-                  <point x="347.0000000000001" y="412.0" />
-                  <point x="511.2142857142858" y="412.0" />
-                  <point x="-27.285714285714278" y="36.5" />
-                </edge>
-                <edge source="clases.Priest" target="clases.Attacker">
-                  <point x="52.75" y="-102.5" />
-                  <point x="736.2585034013606" y="667.0" />
-                  <point x="846.0000000000001" y="667.0" />
-                  <point x="846.0000000000001" y="402.0" />
-                  <point x="593.0714285714287" y="402.0" />
-                  <point x="54.571428571428555" y="36.5" />
-                </edge>
-                <edge source="clases.Undead" target="clases.Attacker">
-                  <point x="0.0" y="-102.5" />
-                  <point x="730.0000000000001" y="412.0" />
-                  <point x="565.7857142857144" y="412.0" />
-                  <point x="27.285714285714334" y="36.5" />
-                </edge>
-                <edge source="clases.Knight" target="clases.AbstractHuman">
-                  <point x="52.75" y="-102.5" />
-                  <point x="197.7585034013606" y="667.0" />
-                  <point x="494.5000000000001" y="667.0" />
-                  <point x="-44.0" y="14.5" />
-                </edge>
-                <edge source="clases.AbstractHuman" target="clases.Attacker">
-                  <point x="0.0" y="-14.5" />
-                  <point x="0.0" y="36.5" />
-                </edge>
-                <edge source="clases.FireMage" target="clases.Attacker">
-                  <point x="52.75" y="-102.5" />
-                  <point x="967.2585034013606" y="392.0" />
-                  <point x="620.357142857143" y="392.0" />
-                  <point x="81.85714285714289" y="36.5" />
-                </edge>
-                <edge source="clases.IceGolem" target="clases.Attacker">
-                  <point x="0.0" y="-102.5" />
-                  <point x="116.00000000000011" y="402.0" />
-                  <point x="483.92857142857156" y="402.0" />
-                  <point x="-54.571428571428555" y="36.5" />
-                </edge>
-                <edge source="clases.Knight" target="clases.Attacker">
-                  <point x="-52.75" y="-102.5" />
-                  <point x="92.2585034013606" y="667.0" />
-                  <point x="0.0" y="667.0" />
-                  <point x="0.0" y="392.0" />
-                  <point x="456.6428571428572" y="392.0" />
-                  <point x="-81.85714285714289" y="36.5" />
-                </edge>
-                <edge source="clases.FireMage" target="clases.AbstractHuman">
-                  <point x="-52.75" y="-102.5" />
-                  <point x="861.7585034013606" y="657.0" />
-                  <point x="582.5000000000001" y="657.0" />
-                  <point x="44.0" y="14.5" />
-                </edge>
-                <edge source="clases.Priest" target="clases.AbstractHuman">
-                  <point x="-52.75" y="-102.5" />
-                  <point x="630.7585034013606" y="667.0" />
-                  <point x="538.5000000000001" y="667.0" />
-                  <point x="0.0" y="14.5" />
-                </edge>
-                <edge source="clases.FruitTree" target="clases.Attackable">
-                  <point x="-1.1368683772161603E-13" y="-80.5" />
-                  <point x="0.0" y="80.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="281.5" y="138.0" />
-              <SelectedNodes>
-                <node>clases.Priest</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Methods</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/clases/Rock.java">
+      <file leaf-file-name="HomeworkTwoFacade.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/facade/HomeworkTwoFacade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="37" selection-end-column="9" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="547">
+              <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
             </state>
           </provider>
         </entry>
@@ -219,7 +100,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -230,57 +110,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Raza.java" />
-        <option value="$PROJECT_DIR$/src/Atacker.java" />
-        <option value="$PROJECT_DIR$/src/Human.java" />
-        <option value="$PROJECT_DIR$/src/Rock.java" />
-        <option value="$PROJECT_DIR$/src/FruitTree.java" />
-        <option value="$PROJECT_DIR$/src/Entidad.java" />
-        <option value="$PROJECT_DIR$/src/Goblin.java" />
-        <option value="$PROJECT_DIR$/src/IceGolem.java" />
-        <option value="$PROJECT_DIR$/src/Undead.java" />
-        <option value="$PROJECT_DIR$/src/Knight.java" />
-        <option value="$PROJECT_DIR$/src/FireMage.java" />
-        <option value="$PROJECT_DIR$/src/Priest.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/estudio.java" />
-        <option value="$PROJECT_DIR$/src/Person.java" />
-        <option value="$PROJECT_DIR$/src/Student.java" />
-        <option value="$PROJECT_DIR$/src/estudianding/Person.java" />
-        <option value="$PROJECT_DIR$/src/test/FireMage.java" />
-        <option value="$PROJECT_DIR$/src/Attacker.java" />
-        <option value="$PROJECT_DIR$/src/Clases/Attackable.java" />
-        <option value="$PROJECT_DIR$/test/FireMageTest.java" />
-        <option value="$PROJECT_DIR$/src/Clases/Attacker.java" />
-        <option value="$PROJECT_DIR$/src/Clases/FireMage.java" />
-        <option value="$PROJECT_DIR$/src/Clases/FruitTree.java" />
-        <option value="$PROJECT_DIR$/src/Clases/Goblin.java" />
-        <option value="$PROJECT_DIR$/src/Clases/Human.java" />
-        <option value="$PROJECT_DIR$/src/Clases/IceGolem.java" />
-        <option value="$PROJECT_DIR$/src/Clases/Knight.java" />
-        <option value="$PROJECT_DIR$/src/Clases/Priest.java" />
-        <option value="$PROJECT_DIR$/src/Clases/Rock.java" />
-        <option value="$PROJECT_DIR$/src/Clases/Undead.java" />
-        <option value="$PROJECT_DIR$/src/Clases/Main.java" />
-        <option value="$PROJECT_DIR$/src/Test/FireMageTest.java" />
-        <option value="$PROJECT_DIR$/src/clases/Human.java" />
-        <option value="$PROJECT_DIR$/src/test/FireMageTest.java" />
-        <option value="$PROJECT_DIR$/src/test/KnightTest.java" />
-        <option value="$PROJECT_DIR$/src/test/PriestTest.java" />
-        <option value="$PROJECT_DIR$/src/test/IceGolemTest.java" />
-        <option value="$PROJECT_DIR$/src/test/GoblinTest.java" />
-        <option value="$PROJECT_DIR$/src/test/UndeadTest.java" />
-        <option value="$PROJECT_DIR$/src/clases/Attackable.java" />
-        <option value="$PROJECT_DIR$/src/clases/Attacker.java" />
-        <option value="$PROJECT_DIR$/src/clases/IceGolem.java" />
-        <option value="$PROJECT_DIR$/src/clases/Goblin.java" />
-        <option value="$PROJECT_DIR$/src/clases/Undead.java" />
-        <option value="$PROJECT_DIR$/src/clases/FireMage.java" />
-        <option value="$PROJECT_DIR$/src/clases/Knight.java" />
-        <option value="$PROJECT_DIR$/src/clases/Priest.java" />
-        <option value="$PROJECT_DIR$/src/clases/AbstractHuman.java" />
-        <option value="$PROJECT_DIR$/src/clases/Rock.java" />
-        <option value="$PROJECT_DIR$/src/clases/FruitTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BumperTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/gameelements/bumper/KickerBumper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/gameelements/bumper/PopBumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/gameelements/bumper/PopBumper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/gameelements/bumper/AbstractBumper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/KickerBumperTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PopBumperTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/gameelements/target/AbstractTarget.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/gameelements/target/SpotTarget.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/gameelements/target/DropTarget.java" />
       </list>
     </option>
   </component>
@@ -290,66 +129,92 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="683" />
     <option name="width" value="683" />
     <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Tarea1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Metodologia" type="462c0819:PsiDirectoryNode" />
+              <item name="Metodologia t2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Metodologia t2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Tarea1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Metodologia" type="462c0819:PsiDirectoryNode" />
+              <item name="Metodologia t2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Metodologia t2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Tarea1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Metodologia" type="462c0819:PsiDirectoryNode" />
+              <item name="Metodologia t2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Metodologia t2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="clases" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Tarea1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Metodologia" type="462c0819:PsiDirectoryNode" />
+              <item name="Metodologia t2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Metodologia t2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Metodologia t2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Metodologia t2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Metodologia t2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Metodologia t2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Metodologia t2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Metodologia t2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Metodologia t2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Metodologia t2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="table" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../metodología t1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jhon\Desktop\tarea\Metodologia" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -363,22 +228,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FireMageTest">
+  <component name="RunManager" selected="JUnit.PopBumperTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FireMageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Metodologia" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="KickerBumperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pinball" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.FireMageTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KickerBumperTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -390,87 +249,12 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="GoblinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Metodologia" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="PopBumperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pinball" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.GoblinTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="IceGolemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Metodologia" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.IceGolemTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="KnightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Metodologia" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.KnightTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="PriestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Metodologia" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.PriestTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PopBumperTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -521,19 +305,13 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.KnightTest" />
-      <item itemvalue="JUnit.PriestTest" />
-      <item itemvalue="JUnit.GoblinTest" />
-      <item itemvalue="JUnit.IceGolemTest" />
-      <item itemvalue="JUnit.FireMageTest" />
+      <item itemvalue="JUnit.KickerBumperTest" />
+      <item itemvalue="JUnit.PopBumperTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FireMageTest" />
-        <item itemvalue="JUnit.IceGolemTest" />
-        <item itemvalue="JUnit.GoblinTest" />
-        <item itemvalue="JUnit.PriestTest" />
-        <item itemvalue="JUnit.KnightTest" />
+        <item itemvalue="JUnit.PopBumperTest" />
+        <item itemvalue="JUnit.KickerBumperTest" />
       </list>
     </recent_temporary>
   </component>
@@ -542,122 +320,81 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eeee1ef8-1902-4890-b66f-933a337ce620" name="Default" comment="" />
-      <created>1522897415684</created>
+      <changelist id="e4eefecc-da78-4449-81c5-26b85961a33f" name="Default" comment="" />
+      <created>1528911465423</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1522897415684</updated>
-      <workItem from="1522897420698" duration="12600000" />
-      <workItem from="1522922975859" duration="889000" />
-      <workItem from="1522933616447" duration="1147000" />
-      <workItem from="1523223864287" duration="3505000" />
-      <workItem from="1523632905584" duration="2453000" />
-      <workItem from="1523678986403" duration="12184000" />
-      <workItem from="1523713511656" duration="1304000" />
-      <workItem from="1523759622460" duration="960000" />
-      <workItem from="1523809046678" duration="1531000" />
-      <workItem from="1523842268167" duration="4536000" />
+      <updated>1528911465423</updated>
+      <workItem from="1528911467291" duration="10939000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GoblinTest - 2018.04.14 at 04h 09m 37s.xml">
-      <configuration name="GoblinTest" configurationId="JUnit" />
+    <history-entry file="KickerBumperTest - 2018.06.13 at 20h 55m 39s.xml">
+      <configuration name="KickerBumperTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoblinTest - 2018.04.14 at 04h 11m 48s.xml">
-      <configuration name="GoblinTest" configurationId="JUnit" />
+    <history-entry file="KickerBumperTest - 2018.06.13 at 20h 56m 48s.xml">
+      <configuration name="KickerBumperTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoblinTest - 2018.04.14 at 04h 12m 24s.xml">
-      <configuration name="GoblinTest" configurationId="JUnit" />
+    <history-entry file="PopBumperTest - 2018.06.13 at 21h 00m 04s.xml">
+      <configuration name="PopBumperTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoblinTest - 2018.04.14 at 04h 20m 17s.xml">
-      <configuration name="GoblinTest" configurationId="JUnit" />
+    <history-entry file="KickerBumperTest - 2018.06.13 at 21h 00m 56s.xml">
+      <configuration name="KickerBumperTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IceGolemTest - 2018.04.14 at 04h 20m 24s.xml">
-      <configuration name="IceGolemTest" configurationId="JUnit" />
+    <history-entry file="KickerBumperTest - 2018.06.13 at 21h 01m 05s.xml">
+      <configuration name="KickerBumperTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IceGolemTest - 2018.04.14 at 04h 20m 50s.xml">
-      <configuration name="IceGolemTest" configurationId="JUnit" />
+    <history-entry file="KickerBumperTest - 2018.06.13 at 21h 01m 10s.xml">
+      <configuration name="KickerBumperTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IceGolemTest - 2018.04.14 at 04h 21m 17s.xml">
-      <configuration name="IceGolemTest" configurationId="JUnit" />
+    <history-entry file="KickerBumperTest - 2018.06.13 at 21h 03m 05s.xml">
+      <configuration name="KickerBumperTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IceGolemTest - 2018.04.14 at 04h 29m 48s.xml">
-      <configuration name="IceGolemTest" configurationId="JUnit" />
+    <history-entry file="KickerBumperTest - 2018.06.13 at 21h 04m 18s.xml">
+      <configuration name="KickerBumperTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UndeadTest - 2018.04.14 at 04h 29m 52s.xml">
-      <configuration name="UndeadTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UndeadTest - 2018.04.14 at 04h 31m 34s.xml">
-      <configuration name="UndeadTest" configurationId="JUnit" />
+    <history-entry file="PopBumperTest - 2018.06.13 at 21h 04m 33s.xml">
+      <configuration name="PopBumperTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41109000" />
+    <option name="totallyTimeSpent" value="10939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290938" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.16534181" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290938" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.16534181" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -666,523 +403,163 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Knight.java" />
-    <entry file="file://$PROJECT_DIR$/src/FireMage.java" />
-    <entry file="file://$PROJECT_DIR$/src/Priest.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Interface.java" />
-    <entry file="file://$PROJECT_DIR$/src/Attackable.java" />
-    <entry file="file://$PROJECT_DIR$/src/Raza.java" />
-    <entry file="file://$PROJECT_DIR$/src/clases/Attacker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rock.java" />
-    <entry file="file://$PROJECT_DIR$/src/FruitTree.java" />
-    <entry file="file://$PROJECT_DIR$/src/Goblin.java" />
-    <entry file="file://$PROJECT_DIR$/src/FireMage.java" />
-    <entry file="file://$PROJECT_DIR$/src/Knight.java" />
-    <entry file="uml://JAVA/FruitTree">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>FruitTree</OriginalElement>
-          <nodes>
-            <node x="" y="">FruitTree</node>
-            <node x="" y="">Entidad</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="48.0" y="54.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MODULES/mdl-Metodologia">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MODULES</ID>
-          <OriginalElement>mdl-Metodologia</OriginalElement>
-          <nodes>
-            <node x="" y="">mdl-Metodologia</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="75.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/Knight">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>Knight</OriginalElement>
-          <nodes>
-            <node x="" y="">Human</node>
-            <node x="" y="">Attacker</node>
-            <node x="" y="">Knight</node>
-            <node x="" y="">Entidad</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="100.0" y="94.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/Entidad">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>Entidad</OriginalElement>
-          <nodes>
-            <node x="" y="">Entidad</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="44.0" y="15.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Priest.java" />
-    <entry file="file://$PROJECT_DIR$/src/IceGolem.java" />
-    <entry file="file://$PROJECT_DIR$/src/Human.java" />
-    <entry file="uml://JAVA/">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement />
-          <nodes>
-            <node x="209.0" y="149.0">Goblin</node>
-            <node x="607.25" y="228.0">FireMage</node>
-            <node x="430.0" y="149.0">Undead</node>
-            <node x="724.25" y="228.0">Knight</node>
-            <node x="94.0" y="149.0">FruitTree</node>
-            <node x="239.125" y="0.0">Entidad</node>
-            <node x="584.5" y="149.0">Human</node>
-            <node x="483.5" y="0.0">Attacker</node>
-            <node x="0.0" y="149.0">Rock</node>
-            <node x="510.25" y="228.0">Priest</node>
-            <node x="312.0" y="149.0">IceGolem</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="Goblin" target="Entidad">
-              <point x="-20.75" y="-14.5" />
-              <point x="229.75" y="99.0" />
-              <point x="275.7916666666667" y="99.0" />
-              <point x="-7.333333333333314" y="14.5" />
-            </edge>
-            <edge source="Undead" target="Entidad">
-              <point x="-22.25" y="-14.5" />
-              <point x="452.25" y="89.0" />
-              <point x="305.125" y="89.0" />
-              <point x="22.0" y="14.5" />
-            </edge>
-            <edge source="Rock" target="Entidad">
-              <point x="0.0" y="-14.5" />
-              <point x="37.0" y="79.0" />
-              <point x="246.45833333333334" y="79.0" />
-              <point x="-36.66666666666666" y="14.5" />
-            </edge>
-            <edge source="Human" target="Entidad">
-              <point x="-22.0" y="-14.5" />
-              <point x="606.5" y="79.0" />
-              <point x="319.79166666666663" y="79.0" />
-              <point x="36.66666666666663" y="14.5" />
-            </edge>
-            <edge source="FireMage" target="Human">
-              <point x="-24.25" y="-14.5" />
-              <point x="631.5" y="208.0" />
-              <point x="628.5" y="208.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="Goblin" target="Attacker">
-              <point x="20.75" y="-14.5" />
-              <point x="271.25" y="109.0" />
-              <point x="490.07142857142856" y="109.0" />
-              <point x="-39.428571428571445" y="14.5" />
-            </edge>
-            <edge source="Knight" target="Human">
-              <point x="-20.75" y="-14.5" />
-              <point x="745.0" y="198.0" />
-              <point x="657.8333333333334" y="198.0" />
-              <point x="29.33333333333337" y="14.5" />
-            </edge>
-            <edge source="IceGolem" target="Attacker">
-              <point x="24.5" y="-14.5" />
-              <point x="385.5" y="119.0" />
-              <point x="503.2142857142857" y="119.0" />
-              <point x="-26.285714285714278" y="14.5" />
-            </edge>
-            <edge source="Priest" target="Human">
-              <point x="19.25" y="-14.5" />
-              <point x="568.0" y="208.0" />
-              <point x="599.1666666666666" y="208.0" />
-              <point x="-29.33333333333337" y="14.5" />
-            </edge>
-            <edge source="IceGolem" target="Entidad">
-              <point x="-24.5" y="-14.5" />
-              <point x="336.5" y="99.0" />
-              <point x="290.4583333333333" y="99.0" />
-              <point x="7.333333333333314" y="14.5" />
-            </edge>
-            <edge source="FruitTree" target="Entidad">
-              <point x="0.0" y="-14.5" />
-              <point x="141.5" y="89.0" />
-              <point x="261.125" y="89.0" />
-              <point x="-22.0" y="14.5" />
-            </edge>
-            <edge source="Undead" target="Attacker">
-              <point x="22.25" y="-14.5" />
-              <point x="496.75" y="129.0" />
-              <point x="516.3571428571429" y="129.0" />
-              <point x="-13.14285714285711" y="14.5" />
-            </edge>
-            <edge source="FireMage" target="Attacker">
-              <point x="24.25" y="-14.5" />
-              <point x="680.0" y="208.0" />
-              <point x="683.0" y="208.0" />
-              <point x="683.0" y="59.0" />
-              <point x="555.7857142857143" y="59.0" />
-              <point x="26.285714285714334" y="14.5" />
-            </edge>
-            <edge source="Knight" target="Attacker">
-              <point x="20.75" y="-14.5" />
-              <point x="786.5" y="49.0" />
-              <point x="568.9285714285714" y="49.0" />
-              <point x="39.428571428571445" y="14.5" />
-            </edge>
-            <edge source="Human" target="Attacker">
-              <point x="22.0" y="-14.5" />
-              <point x="650.5" y="69.0" />
-              <point x="542.6428571428571" y="69.0" />
-              <point x="13.14285714285711" y="14.5" />
-            </edge>
-            <edge source="Priest" target="Attacker">
-              <point x="-19.25" y="-14.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="132.0" y="191.0" />
-          <SelectedNodes>
-            <node>Attacker</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/estudio.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/estudianding/Person.java" />
-    <entry file="file://$PROJECT_DIR$/src/estudianding/Main2.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/Attackable.java" />
-    <entry file="file://$PROJECT_DIR$/src/Undead.java" />
-    <entry file="file://$PROJECT_DIR$/src/Entidad.java" />
-    <entry file="file://$PROJECT_DIR$/test/FireMageTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/clases/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/clases/Entidad.java" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/junit/framework/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/IceGolemTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="85" column="31" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram/C:/Users/Jhon/Desktop/tarea/Metodologia/src/clases">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/clases</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="513.0" y="289.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/UndeadTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/BumperTest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/FireMageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/KickerBumperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="91" column="31" selection-start-line="91" selection-start-column="31" selection-end-line="91" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/KnightTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/PriestTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/GoblinTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="90" column="33" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
+        <state relative-caret-position="496">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/clases/Attacker.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/PopBumperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="83" selection-start-line="1" selection-start-column="83" selection-end-line="1" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clases/Attackable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="173">
+          <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/clases/IceGolem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clases/Undead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="99" column="66" selection-start-line="99" selection-start-column="66" selection-end-line="99" selection-end-column="66" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clases/Goblin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="90" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clases/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="105" column="20" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clases/FireMage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clases/Priest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="52" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clases/Rock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="37" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clases/AbstractHuman.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/gameelements/bumper/PopBumper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/clases/FruitTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/gameelements/bumper/KickerBumper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/gameelements/bumper/AbstractBumper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/clases">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>clases</OriginalElement>
-          <nodes>
-            <node x="10.500000000000114" y="432.0">clases.IceGolem</node>
-            <node x="39.5085034013606" y="687.0">clases.Knight</node>
-            <node x="624.5000000000001" y="432.0">clases.Undead</node>
-            <node x="443.0000000000001" y="255.0">clases.Attacker</node>
-            <node x="809.0085034013606" y="687.0">clases.FireMage</node>
-            <node x="654.0" y="0.0">clases.Attackable</node>
-            <node x="241.5000000000001" y="432.0">clases.Goblin</node>
-            <node x="578.0085034013606" y="687.0">clases.Priest</node>
-            <node x="472.5000000000001" y="520.0">clases.AbstractHuman</node>
-            <node x="885.0000000000001" y="211.0">clases.Rock</node>
-            <node x="654.0000000000001" y="211.0">clases.FruitTree</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="clases.Rock" target="clases.Attackable">
-              <point x="0.0" y="-80.5" />
-              <point x="990.5000000000001" y="186.0" />
-              <point x="829.8333333333333" y="186.0" />
-              <point x="70.33333333333326" y="80.5" />
-            </edge>
-            <edge source="clases.Attacker" target="clases.Attackable">
-              <point x="0.0" y="-36.5" />
-              <point x="538.5000000000001" y="186.0" />
-              <point x="689.1666666666666" y="186.0" />
-              <point x="-70.33333333333337" y="80.5" />
-            </edge>
-            <edge source="clases.Goblin" target="clases.Attacker">
-              <point x="0.0" y="-102.5" />
-              <point x="347.0000000000001" y="412.0" />
-              <point x="511.2142857142858" y="412.0" />
-              <point x="-27.285714285714278" y="36.5" />
-            </edge>
-            <edge source="clases.Priest" target="clases.Attacker">
-              <point x="52.75" y="-102.5" />
-              <point x="736.2585034013606" y="667.0" />
-              <point x="846.0000000000001" y="667.0" />
-              <point x="846.0000000000001" y="402.0" />
-              <point x="593.0714285714287" y="402.0" />
-              <point x="54.571428571428555" y="36.5" />
-            </edge>
-            <edge source="clases.Undead" target="clases.Attacker">
-              <point x="0.0" y="-102.5" />
-              <point x="730.0000000000001" y="412.0" />
-              <point x="565.7857142857144" y="412.0" />
-              <point x="27.285714285714334" y="36.5" />
-            </edge>
-            <edge source="clases.Knight" target="clases.AbstractHuman">
-              <point x="52.75" y="-102.5" />
-              <point x="197.7585034013606" y="667.0" />
-              <point x="494.5000000000001" y="667.0" />
-              <point x="-44.0" y="14.5" />
-            </edge>
-            <edge source="clases.AbstractHuman" target="clases.Attacker">
-              <point x="0.0" y="-14.5" />
-              <point x="0.0" y="36.5" />
-            </edge>
-            <edge source="clases.FireMage" target="clases.Attacker">
-              <point x="52.75" y="-102.5" />
-              <point x="967.2585034013606" y="392.0" />
-              <point x="620.357142857143" y="392.0" />
-              <point x="81.85714285714289" y="36.5" />
-            </edge>
-            <edge source="clases.IceGolem" target="clases.Attacker">
-              <point x="0.0" y="-102.5" />
-              <point x="116.00000000000011" y="402.0" />
-              <point x="483.92857142857156" y="402.0" />
-              <point x="-54.571428571428555" y="36.5" />
-            </edge>
-            <edge source="clases.Knight" target="clases.Attacker">
-              <point x="-52.75" y="-102.5" />
-              <point x="92.2585034013606" y="667.0" />
-              <point x="0.0" y="667.0" />
-              <point x="0.0" y="392.0" />
-              <point x="456.6428571428572" y="392.0" />
-              <point x="-81.85714285714289" y="36.5" />
-            </edge>
-            <edge source="clases.FireMage" target="clases.AbstractHuman">
-              <point x="-52.75" y="-102.5" />
-              <point x="861.7585034013606" y="657.0" />
-              <point x="582.5000000000001" y="657.0" />
-              <point x="44.0" y="14.5" />
-            </edge>
-            <edge source="clases.Priest" target="clases.AbstractHuman">
-              <point x="-52.75" y="-102.5" />
-              <point x="630.7585034013606" y="667.0" />
-              <point x="538.5000000000001" y="667.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="clases.FruitTree" target="clases.Attackable">
-              <point x="-1.1368683772161603E-13" y="-80.5" />
-              <point x="0.0" y="80.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="281.5" y="138.0" />
-          <SelectedNodes>
-            <node>clases.Priest</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/gameelements/bumper/Bumper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/gameelements/Hittable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/gameelements/target/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/gameelements/target/AbstractTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/gameelements/target/SpotTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/gameelements/target/DropTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/bonus/Bonus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/facade/HomeworkTwoFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/table/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
